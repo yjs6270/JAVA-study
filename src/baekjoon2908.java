@@ -12,7 +12,5 @@ public class baekjoon2908 {
         b = Integer.parseInt(new StringBuilder().append(b).reverse().toString());
 
         System.out.println(a > b ? a : b);
-
-
     }
 }
