@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b03f3cc1-0004-453f-becf-4d0752f665dc" name="Changes" comment="commit10" />
+    <list default="true" id="b03f3cc1-0004-453f-becf-4d0752f665dc" name="Changes" comment="commit11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +35,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.baekjoon18108">
+  <component name="RunManager" selected="Application.baekjoon10926">
     <configuration name="baekjoon10757" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon10757" />
       <module name="study" />
@@ -43,8 +43,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="baekjoon1712" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon1712" />
+    <configuration name="baekjoon10926" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon10926" />
       <module name="study" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.baekjoon10926" />
         <item itemvalue="Application.baekjoon18108" />
         <item itemvalue="Application.baekjoon1978" />
         <item itemvalue="Application.baekjoon10757" />
         <item itemvalue="Application.baekjoon2775" />
-        <item itemvalue="Application.baekjoon1712" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651214255477</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commit11">
+      <created>1651304724614</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1651304724614</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +199,7 @@
     <MESSAGE value="commit8" />
     <MESSAGE value="commit9" />
     <MESSAGE value="commit10" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit10" />
+    <MESSAGE value="commit11" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit11" />
   </component>
 </project>
