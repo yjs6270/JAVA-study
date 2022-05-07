@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b03f3cc1-0004-453f-becf-4d0752f665dc" name="Changes" comment="commit12">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon25083" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon25083.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b03f3cc1-0004-453f-becf-4d0752f665dc" name="Changes" comment="commit13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651394117357</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="commit13">
+      <created>1651846893849</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651846893850</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,7 +221,8 @@
     <MESSAGE value="commit10" />
     <MESSAGE value="commit11" />
     <MESSAGE value="commit12" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit12" />
+    <MESSAGE value="commit13" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit13" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
